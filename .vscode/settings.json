@@ -1,4 +1,9 @@
 {
     "typescript.tsdk": "./node_modules/typescript/lib",
-    "tslint.enable": false
+    "tslint.enable": false,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
